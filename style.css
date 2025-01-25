@@ -171,7 +171,7 @@ Gaya untuk heading konten utama (h1) untuk membuat efek mengetik dengan kursor y
         width: 0; /* Mulai dengan lebar 0 */
     }
     100% { 
-        width: 80%; /* Akhiri dengan lebar 80%, sesuaikan berdasarkan lebar teks */
+        width: 71%; /* Akhiri dengan lebar 80%, sesuaikan berdasarkan lebar teks */
     }
 }
 
